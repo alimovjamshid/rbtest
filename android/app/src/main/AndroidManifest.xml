@@ -4,7 +4,7 @@
     <meta-data
         android:name="io.flutter.embedding.android.EnableImpeller"
         android:value="false" />
-    `
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
