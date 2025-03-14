@@ -38,8 +38,8 @@ android {
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = 24 //eng kichik versiya androidni
         targetSdk = 34 //target versiya android ni
-        versionCode = 6 // bu versiya kodi har safar yuklanganda 1 ta oshirib yuboriladi
-        versionName = "1.2.0" //versiya nomi bu ni o'zgartirib boraverasiz
+        versionCode = 8 // bu versiya kodi har safar yuklanganda 1 ta oshirib yuboriladi
+        versionName = "1.2.8" //versiya nomi bu ni o'zgartirib boraverasiz
     }
 
 //    signingConfigs {
