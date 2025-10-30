@@ -39,8 +39,8 @@ android {
         minSdk = 24 //eng kichik versiya androidni
         //noinspection OldTargetApi
         targetSdk = 36 //target versiya android ni
-        versionCode = 10 // bu versiya kodi har safar yuklanganda 1 ta oshirib yuboriladi
-        versionName = "1.3.1" //versiya nomi bu ni o'zgartirib boraverasiz
+        versionCode = 15 // bu versiya kodi har safar yuklanganda 1 ta oshirib yuboriladi
+        versionName = "1.3.4" //versiya nomi bu ni o'zgartirib boraverasiz
     }
 
 //    signingConfigs {
